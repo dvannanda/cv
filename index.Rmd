@@ -29,7 +29,7 @@ Business and Commerce graduate looking for remote/freelance work in data analyti
 <table class="table table-borderless">
   <tbody>
     <tr>
-      <td style="width: 15%">2018 - 2020</td>
+      <td style="width: 12%">2018 - 2020</td>
       <td><b>BACHELOR OF BUSINESS AND COMMERCE</b>, <em>Monash University</em>
         <br><em>Double major in Applied Economics and Econometrics and Business Statistics (EBS)</em>
         <br><span id="gpa">3.958 GPA | Dean’s Honours List 2020 (Top 2 percentile)</span>
@@ -44,7 +44,7 @@ Business and Commerce graduate looking for remote/freelance work in data analyti
 <table class="table table-borderless">
   <tbody>
     <tr>
-      <td style="width: 15%">Mar 2019 - Dec 2020</td>
+      <td style="width: 12%">Mar 2019 - Dec 2020</td>
       <td><b>PASS LEADER for INTRODUCTORY ECONOMETRICS (ETW2410)</b>
         <br><em>Monash University</em>
         <br>Conduct 1-hour weekly PASS sessions for to help them revise and understand difficult concepts regarding the unit and engage in active learning. Work with lecturers and other PASS leaders to make lesson plans in accordance to syllabus. 
@@ -67,7 +67,6 @@ Business and Commerce graduate looking for remote/freelance work in data analyti
 - Have experience with eViews, STATA, SQL and Tableau. 
 - Language: English and Bahasa Indonesia
 
-<br>
 
 ## Supporting Documents
 
