@@ -1,5 +1,5 @@
 # Devi Annanda's CV
 
-Go to dvannanda.github.io/cv to open cv. 
+Go to [dvannanda.github.io/cv](https://dvannanda.github.io/cv/) to open cv. 
 
 Also contains links to transcripts and testamur.
