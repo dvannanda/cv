@@ -1,0 +1,88 @@
+---
+title: "DEVI ANNANDA"
+author: "Denpasar, Bali, Indonesia"
+date: "Updated `r format(Sys.Date(), '%d %B %Y')`"
+output: 
+  html_document:
+    keep_md: true
+    includes:
+      in-header: header.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+library(fontawesome)
+```
+
+<br>
+
+<span id="socials">[`r fa("twitter", fill = "#1DA1F2")`](https://twitter.com/dvannanda) dvannanda | 
+[`r fa("github", fill = "#161B22")`](https://github.com/dvannanda) dvannnda | | 
+[`r fa("whatsapp", fill = "#82C91E")`](https://wa.me/60163897987) +60 163 897 987</span>
+
+# About Me
+
+Business and Commerce graduate looking for remote/freelance work in data analytics, especially on data visualization and analytics (forecasting and modelling) with R. Passionate about data-based storytelling, reproducible research and open data. 
+
+# Education
+
+<table class="table table-borderless">
+  <tbody>
+    <tr>
+      <td style="width: 15%">2018 - 2020</td>
+      <td><b>BACHELOR OF BUSINESS AND COMMERCE</b>, <em>Monash University</em>
+        <br><em>Double major in Applied Economics and Econometrics and Business Statistics (EBS)</em>
+        <br><span id="gpa">3.958 GPA | Dean’s Honours List 2020 (Top 2 percentile)</span>
+        <br>Was a Major Representative for Business Analytics (BA) and Econometrics and Business Statistics (EBS); Sub-committee for School of Business and member of the SSLC (Staff-Student Liaison Committee)
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+# Experience
+
+<table class="table table-borderless">
+  <tbody>
+    <tr>
+      <td style="width: 15%">Mar 2019 - Dec 2020</td>
+      <td><b>PASS LEADER for INTRODUCTORY ECONOMETRICS (ETW2410)</b>
+        <br><em>Monash University</em>
+        <br>Conduct 1-hour weekly PASS sessions for to help them revise and understand difficult concepts regarding the unit and engage in active learning. Work with lecturers and other PASS leaders to make lesson plans in accordance to syllabus. 
+      </td>
+    </tr>
+    <tr>
+      <td>Dec 2019 - Mar 2020</td>
+      <td><b>INTERNSHIP in SOURCING AND LOGISTICS, FINANCE DEP</b>
+        <br><em>DIGI Telecommunications SDN. BHD.</em> 
+        <br>Trusted by the Head of Section to handle the data collection and cleaning to create a new database for their new sourcing system overhaul. Also assisted the accounting department to audit and review discrepancies to free up cash flow for the company.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+# Skills
+
+- Advance in R and Microsoft Excel
+- Front-end framework skills include HTML, CSS, and Bootstrap.
+- Have experience with eViews, STATA, SQL and Tableau. 
+- Language: English and Bahasa Indonesia
+
+```{css}
+p, table, ul {
+  font-size: medium;
+}
+
+b {
+  color: green;
+}
+
+span#gpa {
+  font-weight: bold;
+}
+
+span#socials {
+  font-size: large;
+}
+```
+
