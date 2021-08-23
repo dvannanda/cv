@@ -16,9 +16,12 @@ library(fontawesome)
 
 <br>
 
-<span id="socials">[`r fa("twitter", fill = "#161B22")` dvannanda](https://twitter.com/dvannanda) | 
+<span id="socials">
 [`r fa("github", fill = "#161B22")` dvannanda](https://github.com/dvannanda) | 
-[`r fa("whatsapp", fill = "#161B22")` +60 163 897 987](https://wa.me/60163897987)</span>
+[`r fa("twitter", fill = "#161B22")` dvannanda](https://twitter.com/dvannanda) | 
+[`r fa("envelope", fill = "#161B22")` dvannanda@gmail.com](mailto:dvannanda@gmail.com) | 
+[`r fa("whatsapp", fill = "#161B22")` +60 163 897 987](https://wa.me/60163897987)
+</span>
 
 ## About Me
 
