@@ -16,15 +16,15 @@ library(fontawesome)
 
 <br>
 
-<span id="socials">[`r fa("twitter", fill = "#1DA1F2")`](https://twitter.com/dvannanda) dvannanda | 
+<span id="socials">[`r fa("twitter", fill = "#161B22")`](https://twitter.com/dvannanda) dvannanda | 
 [`r fa("github", fill = "#161B22")`](https://github.com/dvannanda) dvannnda | 
-[`r fa("whatsapp", fill = "#82C91E")`](https://wa.me/60163897987) +60 163 897 987</span>
+[`r fa("whatsapp", fill = "#161B22")`](https://wa.me/60163897987) +60 163 897 987</span>
 
-# About Me
+## About Me
 
 Business and Commerce graduate looking for remote/freelance work in data analytics, especially on data visualization and analytics (forecasting and modelling) with R. Passionate about data-based storytelling, reproducible research and open data. 
 
-# Education
+## Education
 
 <table class="table table-borderless">
   <tbody>
@@ -39,7 +39,7 @@ Business and Commerce graduate looking for remote/freelance work in data analyti
   </tbody>
 </table>
 
-# Experience
+## Experience
 
 <table class="table table-borderless">
   <tbody>
@@ -60,12 +60,19 @@ Business and Commerce graduate looking for remote/freelance work in data analyti
   </tbody>
 </table>
 
-# Skills
+## Skills
 
 - Advance in R and Microsoft Excel
 - Front-end framework skills include HTML, CSS, and Bootstrap.
 - Have experience with eViews, STATA, SQL and Tableau. 
 - Language: English and Bahasa Indonesia
+
+<br>
+
+## Supporting Documents
+
+See Monash University [transcript](https://www.myequals.net/sharelink/db53a623-6911-424d-b93d-6f75b5a5edfd/c7522f97-c7df-4dc1-840f-75f2701a3038) and [testamur](https://www.myequals.net/sharelink/e274ee91-dc9e-49ca-b622-f23b9f159ddf/2c23a82d-e53c-4ebc-9af1-7d04ef151bab). 
+
 
 ```{css}
 p, table, ul {
@@ -73,7 +80,7 @@ p, table, ul {
 }
 
 b {
-  color: green;
+  color: #2398D6;
 }
 
 span#gpa {
@@ -84,4 +91,5 @@ span#socials {
   font-size: large;
 }
 ```
+
 
