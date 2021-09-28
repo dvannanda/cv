@@ -66,8 +66,8 @@ Business and Commerce graduate looking for remote/freelance work in data analyti
 ## Skills
 
 - Advance in R and Microsoft Excel
+- More with R: regressions, forecasting, data vizualization and Shiny dashboards/applications.
 - Front-end framework skills include HTML, CSS, and Bootstrap.
-- Have experience with eViews, STATA, SQL and Tableau. 
 - Language: English and Bahasa Indonesia
 
 
