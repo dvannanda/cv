@@ -1,0 +1,90 @@
+---
+output:
+  pdf_document: default
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+library(fontawesome)
+```
+
+# DEVI ANNANDA
+
+Denpasar, Bali, Indonesia
+
+Updated `r format(Sys.Date(), '%d %B %Y')`
+
+[[`r fa("github", fill = "#161B22")`
+dvannanda]{#socials}](https://github.com/dvannanda)[ \|
+<!-- [`r fa("twitter", fill = "#161B22")` dvannanda](https://twitter.com/dvannanda) |  -->
+[`r fa("envelope", fill = "#161B22")`
+dvannanda\@gmail.com](mailto:dvannanda@gmail.com) \|
+[`r fa("whatsapp", fill = "#161B22")`
++62-821-4489-9050](https://wa.me/6282144899050) \|
+[`r fa("phone", fill = "#161B22")`
++62-811-380-275](tel:62811380275)]{#socials}
+
+## About Me
+
+Business and Commerce graduate looking for remote/freelance work in data
+analytics, especially on data visualization and analytics (forecasting
+and modelling) with R. Passionate about data-based storytelling,
+reproducible research and open data.
+
+## Education
+
++-------------+-------------------------------------------------------+
+| 2018 - 2020 | **BACHELOR OF BUSINESS AND COMMERCE**, *Monash        |
+|             | University*\                                          |
+|             | *Double major in Applied Economics and Econometrics   |
+|             | and Business Statistics*\                             |
+|             | **3.958 GPA \| Dean's Honours List 2020 (Top 2        |
+|             | percentile)**\                                        |
+|             | Was a Major Representative for Business Analytics     |
+|             | (BA) and Econometrics and Business Statistics (EBS);  |
+|             | Sub-committee for School of Business and member of    |
+|             | the SSLC (Staff-Student Liaison Committee)            |
++-------------+-------------------------------------------------------+
+
+## Experience
+
++---------------------+-----------------------------------------------+
+| Mar 2019 - Dec 2020 | **PASS LEADER for INTRODUCTORY ECONOMETRICS   |
+|                     | (ETW2410)**\                                  |
+|                     | *Monash University*\                          |
+|                     | Conduct 1-hour weekly PASS sessions for to    |
+|                     | help them revise and understand difficult     |
+|                     | concepts regarding the unit and engage in     |
+|                     | active learning. Work with lecturers and      |
+|                     | other PASS leaders to make lesson plans in    |
+|                     | accordance to syllabus.                       |
++---------------------+-----------------------------------------------+
+| Dec 2019 - Mar 2020 | **INTERNSHIP in SOURCING AND LOGISTICS,       |
+|                     | FINANCE DEP**\                                |
+|                     | *DIGI Telecommunications SDN. BHD.*\          |
+|                     | Trusted by the Head of Section to handle the  |
+|                     | data collection and cleaning to create a new  |
+|                     | database for their new sourcing system        |
+|                     | overhaul. Also assisted the accounting        |
+|                     | department to audit and review discrepancies  |
+|                     | to free up cash flow for the company.         |
++---------------------+-----------------------------------------------+
+
+## Skills
+
+-   Advance in R and Microsoft Office (Word, Excel, Ppt)
+-   More with R: regressions, forecasting, data vizualization and Shiny
+    dashboards/applications.
+-   Front-end framework skills include HTML, CSS, and Bootstrap.
+-   Language: English and Bahasa Indonesia
+
+## Supporting Documents
+
+See Monash University
+[**transcript**](https://www.myequals.net/sharelink/db53a623-6911-424d-b93d-6f75b5a5edfd/c7522f97-c7df-4dc1-840f-75f2701a3038)
+and
+[**testamur**](https://www.myequals.net/sharelink/e274ee91-dc9e-49ca-b622-f23b9f159ddf/2c23a82d-e53c-4ebc-9af1-7d04ef151bab).

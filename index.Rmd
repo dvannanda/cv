@@ -3,6 +3,7 @@ title: "DEVI ANNANDA"
 author: "Denpasar, Bali, Indonesia"
 date: "Updated `r format(Sys.Date(), '%d %B %Y')`"
 output:
+  pdf_document: default
   html_document:
     includes:
       in-header: header.html
@@ -20,7 +21,8 @@ library(fontawesome)
 [`r fa("github", fill = "#161B22")` dvannanda](https://github.com/dvannanda) | 
 <!-- [`r fa("twitter", fill = "#161B22")` dvannanda](https://twitter.com/dvannanda) |  -->
 [`r fa("envelope", fill = "#161B22")` dvannanda@gmail.com](mailto:dvannanda@gmail.com) | 
-[`r fa("whatsapp", fill = "#161B22")` +60 163 897 987](https://wa.me/60163897987)
+[`r fa("whatsapp", fill = "#161B22")` +62-821-4489-9050](https://wa.me/6282144899050) |
+[`r fa("phone", fill = "#161B22")` +62-811-380-275](tel:62811380275)
 </span>
 
 ## About Me
@@ -65,7 +67,7 @@ Business and Commerce graduate looking for remote/freelance work in data analyti
 
 ## Skills
 
-- Advance in R and Microsoft Excel
+- Advance in R and Microsoft Office (Word, Excel, Ppt)
 - More with R: regressions, forecasting, data vizualization and Shiny dashboards/applications.
 - Front-end framework skills include HTML, CSS, and Bootstrap.
 - Language: English and Bahasa Indonesia
@@ -73,7 +75,7 @@ Business and Commerce graduate looking for remote/freelance work in data analyti
 
 ## Supporting Documents
 
-See Monash University [transcript](https://www.myequals.net/sharelink/db53a623-6911-424d-b93d-6f75b5a5edfd/c7522f97-c7df-4dc1-840f-75f2701a3038) and [testamur](https://www.myequals.net/sharelink/e274ee91-dc9e-49ca-b622-f23b9f159ddf/2c23a82d-e53c-4ebc-9af1-7d04ef151bab). 
+See Monash University [**transcript**](https://www.myequals.net/sharelink/db53a623-6911-424d-b93d-6f75b5a5edfd/c7522f97-c7df-4dc1-840f-75f2701a3038) and [**testamur**](https://www.myequals.net/sharelink/e274ee91-dc9e-49ca-b622-f23b9f159ddf/2c23a82d-e53c-4ebc-9af1-7d04ef151bab). 
 
 
 ```{css}
