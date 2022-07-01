@@ -3,7 +3,6 @@ title: "DEVI ANNANDA"
 author: "Denpasar, Bali, Indonesia"
 date: "Updated `r format(Sys.Date(), '%d %B %Y')`"
 output:
-  pdf_document: default
   html_document:
     includes:
       in-header: header.html
@@ -77,6 +76,9 @@ Business and Commerce graduate looking for remote/freelance work in data analyti
 
 See Monash University [**transcript**](https://www.myequals.net/sharelink/db53a623-6911-424d-b93d-6f75b5a5edfd/c7522f97-c7df-4dc1-840f-75f2701a3038) and [**testamur**](https://www.myequals.net/sharelink/e274ee91-dc9e-49ca-b622-f23b9f159ddf/2c23a82d-e53c-4ebc-9af1-7d04ef151bab). 
 
+Get PDF of CV [**here**](https://github.com/dvannanda/cv/raw/main/PDF/cv_dvannanda.pdf).
+
+<br>
 
 ```{css}
 p, table, ul {
